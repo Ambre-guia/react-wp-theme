@@ -6,6 +6,6 @@
 version: 2
 updates:
   - package-ecosystem: "npm" # See documentation for possible values
-    directory: "../react_theme/react-src" # Location of package manifests
+    directory: "./react_theme/react-src" # Location of package manifests
     schedule:
       interval: "daily"
