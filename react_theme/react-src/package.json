@@ -14,7 +14,7 @@
     "eslint-webpack-plugin": "^4.1.0",
     "glob-parent": "^6.0.2",
     "html-minifier": "^4.0.0",
-    "jsdom": "^16.5.0",
+    "jsdom": "^24.0.0",
     "loader-utils": "^3.2.1",
     "lodash": "^4.17.21",
     "minimatch": "^9.0.4",
